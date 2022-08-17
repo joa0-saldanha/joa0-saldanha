@@ -1,6 +1,5 @@
 ### Hi there, I am João Antonio
 
-- 🔭 I’m currently working on Banco PAN, in the DevOps Team
 - 🌱 I’m currently learning BackEnd
 - 😄 Pronouns: he/him
 
