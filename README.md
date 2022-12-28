@@ -1,6 +1,7 @@
 ### Hi there, I am João Antonio
 
 - 🌱 I’m currently focused on evolving in data engineering
+- You can check my data projects here: [Data Projet][https://github.com/joaoaos/Data-projects]
 
 <div style ="display: inline_block"><br>
 	<img align="center" alt="Joao-Vs" height="45" width"55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
