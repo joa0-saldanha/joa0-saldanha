@@ -13,7 +13,7 @@
   <img align="center" alt="Joao-Vs" height="45" width"55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /> 
  </div>
 
-<a href="https://www.linkedin.com/in/joão-antonio-oliveira-saldanha-71839715a" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/joao-saldanha/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 ##
   
