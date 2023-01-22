@@ -17,6 +17,6 @@
 
 ##
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaoaos&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joa0-saldanha&show_icons=true&theme=radical)
 
 
